@@ -35,4 +35,9 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+}
+
+li {
+  text-align: left;
 }
