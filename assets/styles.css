@@ -17,3 +17,14 @@ h2 {
   text-align: center;
   font-size: 30px;
 }
+
+.main-bio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 25%;
+  height: auto;
+}
